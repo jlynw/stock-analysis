@@ -11,7 +11,9 @@ The initial code below was used to find the total daily volume and the return of
 
 
 Indicated below is how long it took the code to analyze the data and compile the results.
-![initialVBA_Challenge_2017.PNG](https://github.com/jlynw/stock-analysis/blob/main/Resources/initialVBA_Challenge_2017.PNG) ![initial_VBA_Challenge_2018.PNG](https://github.com/jlynw/stock-analysis/blob/main/Resources/initial_VBA_Challenge_2018.PNG)
+
+![initialVBA_Challenge_2017.PNG](https://github.com/jlynw/stock-analysis/blob/main/Resources/initialVBA_Challenge_2017.PNG) 
+![initial_VBA_Challenge_2018.PNG](https://github.com/jlynw/stock-analysis/blob/main/Resources/initial_VBA_Challenge_2018.PNG)
 
 
 Below are the total daily volume and the return of tickers in 2017 and 2018. The values highlighted in green shows a positive return, while values highlighted in red shows a negative return. The majority of stocks performed better in 2017 compared to 2018. ENPH and RUN were the only tickers that did not have a negative return.
@@ -25,7 +27,9 @@ Below is the refactored portion of the initial code above. This enabled the code
 ![refactored.PNG](https://github.com/jlynw/stock-analysis/blob/main/Resources/refactored.PNG)
 
 Indicated below is how long it took the code to analyze the data and compile the results.
-![VBA_Challenge_2017.PNG](https://github.com/jlynw/stock-analysis/blob/main/Resources/VBA_Challenge_2017.PNG) ![VBA_Challenge_2018.PNG](https://github.com/jlynw/stock-analysis/blob/main/Resources/VBA_Challenge_2018.PNG)
+
+![VBA_Challenge_2017.PNG](https://github.com/jlynw/stock-analysis/blob/main/Resources/VBA_Challenge_2017.PNG) 
+![VBA_Challenge_2018.PNG](https://github.com/jlynw/stock-analysis/blob/main/Resources/VBA_Challenge_2018.PNG)
 
 ## Summary
 The advantages of refactoring is that it can make your code more efficient and run faster. A disadvantage is that refacoring can introduce runtime errors or bugs to a perfectly functioning code.
